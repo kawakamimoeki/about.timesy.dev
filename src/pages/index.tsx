@@ -13,7 +13,7 @@ function HomepageHeader() {
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">
-          <img src="/img/mainvisual.png" alt="Logo" width="600px" height="200px" />
+          Hack Luck.
         </h1>
         <div className={styles.buttons}>
           <Link
