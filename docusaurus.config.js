@@ -113,7 +113,7 @@ const config = {
               },
               {
                 label: 'API',
-                to: '/docs/api',
+                to: '/docs/category/api',
               },
             ],
           },
